@@ -61,13 +61,19 @@ graph LR
 > If this feature is not visible in the GUI navigation menu, you may need to enable it under System > Feature Visibility.
 
 > [!details]- ### Configure FAD-East
-> 
+>
 >### FAD-East
+>
+>**From the evoke admin console, look for the External IP for FAD-East:**
+>
+>{{< figure src="fad-east-access.png" >}}
+>
+>**Log in with:**
 >
 >**Username:** ```admin``` 
 > 
 >**Password:** ```fortinet```
-> 
+>
 >1. Go to **Link Load Balance > Link Group** and click **Gateway**
 >2. Click **Create New**
 >
@@ -148,19 +154,17 @@ graph LR
 
 > [!details]- ### Configure FAD-West
 >
->### Locating FAD-East
+>### FAD-West
 >
->**From the lab admin console, look for the **External Address** for FAD-East:**
+>**From the evoke admin console, look for the External IP for FAD-West:**
 >
->{{< figure src="fad-east-access.png" >}}
+>{{< figure src="fad-west-accessa.png" >}}
 >
 >**Log in with:**
 >
 >**Username:** ```admin``` 
 > 
 >**Password:** ```fortinet```
-> 
->### FAD-West
 >
 >1. Go to **Link Load Balance > Link Group** and click **Gateway**
 >2. Click **Create New**
