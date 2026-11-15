@@ -61,6 +61,7 @@ graph LR
 > If this feature is not visible in the GUI navigation menu, you may need to enable it under System > Feature Visibility.
 
 > [!details]- ### Configure FAD-East
+> 
 >### FAD-East
 >
 >**Username:** ```admin``` 
@@ -146,13 +147,21 @@ graph LR
 >{{< figure src="fad-east-logical-topo-llb.png" width="600" height="400">}}
 
 > [!details]- ### Configure FAD-West
-> 
->### FAD-West
+>
+>### Locating FAD-East
+>
+>**From the lab admin console, look for the **External Address** for FAD-East:**
+>
+>{{< figure src="fad-east-access.png" >}}
+>
+>**Log in with:**
 >
 >**Username:** ```admin``` 
 > 
 >**Password:** ```fortinet```
 > 
+>### FAD-West
+>
 >1. Go to **Link Load Balance > Link Group** and click **Gateway**
 >2. Click **Create New**
 >
