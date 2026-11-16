@@ -125,15 +125,15 @@ graph TD
 
 {{< figure src="Sunnyvale-VPN.png" >}}
 
-2. Using the link your instructor sent you, go to the lab admin page
+2. Using the link your instructor sent you, go to the evoke admin page
 3. Click **Edit**
 
 {{< figure src="evoke1.png" >}}
 
-On this page you see External IP Addresses, Internal IP Addresses, Credential Access etc...
+On this page you see **External IP Addresses**, **Internal IP Addresses**, **Credential** access etc...
 
-To access the clients use the spice console in the far right.
-To reach the FortiADC's use the external IP.
+To access any of the clients use the spice console in the far right.
+To reach the FortiADC's use the **External IP**.
 
 {{< figure src="evoke2.png" >}}
 

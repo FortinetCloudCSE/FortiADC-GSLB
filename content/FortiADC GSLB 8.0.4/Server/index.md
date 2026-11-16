@@ -147,6 +147,12 @@ After you have created a server configuration object, you can specify it in the 
 >
 >### FAD-East
 >
+>**From the evoke admin console, look for the External IP for FAD-East:**
+>
+>{{< figure src="fad-east-access.png" >}}
+>
+>**Log in with:**
+>
 >**Username:** ```admin``` 
 > 
 >**Password:** ```fortinet```
@@ -189,10 +195,16 @@ After you have created a server configuration object, you can specify it in the 
 >
 >### FAD-West
 >
+>**From the evoke admin console, look for the External IP for FAD-West:**
+>
+>{{< figure src="fad-west-accessa.png" >}}
+>
+>**Log in with:**
+>
 >**Username:** ```admin``` 
 > 
 >**Password:** ```fortinet```
-> 
+>
 >1. Go to **Global Load Balance > GLB Configuration**
 >2. Click the **Server** tab.
 >3. Click **Create New** to display the configuration editor.
