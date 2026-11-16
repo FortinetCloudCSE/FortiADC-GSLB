@@ -19,10 +19,16 @@ After you have created a data center configuration object, you can specify it in
 >
 >### FAD-East
 >
+>**From the evoke admin console, look for the External IP for FAD-East:**
+>
+>{{< figure src="fad-east-access.png" >}}
+>
+>**Log in with:**
+>
 >**Username:** ```admin``` 
 > 
 >**Password:** ```fortinet```
-> 
+>
 >1. Go to **Global Load Balance > GLB Configuration**.
 >2. Click the **Data Center** tab.
 >3. Click **Create New** to display the configuration editor.
@@ -46,13 +52,19 @@ After you have created a data center configuration object, you can specify it in
 >{{< figure src="datacenter5.png" >}}
 
 > [!details]- ### Configure FAD-West
-> 
+>
 >### FAD-West
+>
+>**From the evoke admin console, look for the External IP for FAD-West:**
+>
+>{{< figure src="fad-west-accessa.png" >}}
+>
+>**Log in with:**
 >
 >**Username:** ```admin``` 
 > 
 >**Password:** ```fortinet```
-> 
+>
 >1. Go to **Global Load Balance > GLB Configuration**.
 >2. Click the **Data Center** tab.
 >3. Click **Create New** to display the configuration editor.

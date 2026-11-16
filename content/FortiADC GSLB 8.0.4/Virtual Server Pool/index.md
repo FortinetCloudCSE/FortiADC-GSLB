@@ -28,10 +28,16 @@ After you have created a virtual server pool configuration object, you can speci
 >
 >### FAD-East
 >
+>**From the evoke admin console, look for the External IP for FAD-East:**
+>
+>{{< figure src="fad-east-access.png" >}}
+>
+>**Log in with:**
+>
 >**Username:** ```admin``` 
 > 
 >**Password:** ```fortinet```
-> 
+>
 >1. Go to **Global Load Balance > GLB Configuration**.
 >2. Click the **Virtual Server Pool** tab.
 >3. Click **Create New** to display the configuration editor.
@@ -124,10 +130,16 @@ After you have created a virtual server pool configuration object, you can speci
 >
 >### FAD-West
 >
+>**From the evoke admin console, look for the External IP for FAD-West:**
+>
+>{{< figure src="fad-west-accessa.png" >}}
+>
+>**Log in with:**
+>
 >**Username:** ```admin``` 
 > 
 >**Password:** ```fortinet```
-> 
+>
 >1. Go to **Global Load Balance > GLB Configuration**.
 >2. Click the **Virtual Server Pool** tab.
 >3. Click **Create New** to display the configuration editor.

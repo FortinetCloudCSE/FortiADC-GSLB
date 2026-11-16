@@ -21,12 +21,19 @@ For this exercise we are most interested in using the ISP Address Book for retur
 The province setting is used in GLB deployments in China to enable location awareness that is province-specific. For example, a user can be directed to a data center in specific location inside the country, such as Beijing or Guangdong, rather than simply China.
 
 > [!details]- ### Configure FAD-East
-> 
+>
 >### FAD-East
+>
+>**From the evoke admin console, look for the External IP for FAD-East:**
+>
+>{{< figure src="fad-east-access.png" >}}
+>
+>**Log in with:**
+>
 >**Username:** ```admin``` 
 > 
 >**Password:** ```fortinet```
-> 
+>
 >1. Go to **Shared Resources > Address**.
 >2. Click the **ISP Address** tab.
 >3. Click **Create New**. The ISP Address dialog opens.
@@ -52,10 +59,17 @@ The province setting is used in GLB deployments in China to enable location awar
 > [!details]- ### Configure FAD-West
 >
 >### FAD-West
+>
+>**From the evoke admin console, look for the External IP for FAD-West:**
+>
+>{{< figure src="fad-west-accessa.png" >}}
+>
+>**Log in with:**
+>
 >**Username:** ```admin``` 
 > 
 >**Password:** ```fortinet```
-> 
+>
 >1. Go to **Shared Resources > Address**.
 >2. Click the **ISP Address** tab.
 >3. Click **Create New**. The ISP Address dialog opens.

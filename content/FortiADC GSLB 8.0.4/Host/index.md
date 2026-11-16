@@ -54,6 +54,13 @@ After you have created a host configuration object, it can be used to form the z
 > [!details]- ### Configure FAD-East
 >
 >### FAD-East
+>
+>**From the evoke admin console, look for the External IP for FAD-East:**
+>
+>{{< figure src="fad-east-access.png" >}}
+>
+>**Log in with:**
+>
 >**Username:** ```admin``` 
 > 
 >**Password:** ```fortinet```
@@ -103,10 +110,16 @@ After you have created a host configuration object, it can be used to form the z
 >
 >### FAD-West
 >
->**Username:** ```admin```
+>**From the evoke admin console, look for the External IP for FAD-West:**
+>
+>{{< figure src="fad-west-accessa.png" >}}
+>
+>**Log in with:**
+>
+>**Username:** ```admin``` 
 > 
 >**Password:** ```fortinet```
-> 
+>
 >1. Go to **Global Load Balance > GLB Configuration**
 >2. Click **Create New**
 >

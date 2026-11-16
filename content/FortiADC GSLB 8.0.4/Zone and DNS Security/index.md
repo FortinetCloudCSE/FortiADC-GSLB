@@ -10,6 +10,14 @@ The Zone and DNS Security module provides the essential tools for managing DNS a
 
 > [!details]- ### Configure FAD-East
 >
+>### FAD-East
+>
+>**From the evoke admin console, look for the External IP for FAD-East:**
+>
+>{{< figure src="fad-east-access.png" >}}
+>
+>**Log in with:**
+>
 >**Username:** ```admin``` 
 > 
 >**Password:** ```fortinet```
@@ -29,6 +37,14 @@ The Zone and DNS Security module provides the essential tools for managing DNS a
 >{{< figure src="fad-east-global-dns-policy.png" >}}
 
 > [!details]- ### Configure FAD-West
+>
+>### FAD-West
+>
+>**From the evoke admin console, look for the External IP for FAD-West:**
+>
+>{{< figure src="fad-west-accessa.png" >}}
+>
+>**Log in with:**
 >
 >**Username:** ```admin``` 
 > 
