@@ -1,7 +1,7 @@
 ---
 title: "Link Load Balancing"
 LinkTitle: "Link Load Balancing"
-weight: 4
+weight: 40
 ---
 
 ### Link load balancing

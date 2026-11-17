@@ -1,7 +1,7 @@
 ---
 title: "Link"
 LinkTitle: "Link"
-weight: 7 
+weight: 70 
 ---
 ### Link
 
