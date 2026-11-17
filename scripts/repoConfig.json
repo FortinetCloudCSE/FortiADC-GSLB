@@ -18,13 +18,13 @@
     "weight":10
   },
   {
-    "text": "Fortinet Admin Guides",
+    "text": "Fortinet Administration Guides",
     "URL": "https://docs.fortinet.com",
     "icon": "fa-tools",
     "weight":20
   },
   {
-    "text": "FortiADC Admin Guide",
+    "text": "FortiADC Administration Guide",
     "URL": "https://docs.fortinet.com/document/fortiadc/8.0.4/administration-guide/105358/introduction",
     "icon": "fa-tools",
     "weight":30
