@@ -1,7 +1,7 @@
 ---
 title: "What's New"
 LinkTitle: "What's New"
-weight: 2
+weight: 20
 ---
 
 ### Global Load Balance

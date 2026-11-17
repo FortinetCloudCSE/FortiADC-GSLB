@@ -2,7 +2,7 @@
 title: "FortiADC GSLB SLB 8.0.4"
 chapter: "false"
 LinkTitle: "FortiADC GSLB SLB 8.0.4"
-weight: 1
+weight: 10
 ---
 
 ### Global Load Balance

@@ -1,7 +1,7 @@
 ---
 title: "Virtual Server Pool"
 LinkTitle: "Virtual Server Pool"
-weight: 8 
+weight: 80 
 ---
 
 ### Virtual Server Pool
