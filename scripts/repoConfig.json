@@ -18,20 +18,20 @@
     "weight":10
   },
   {
-    "text": "Fortinet Standard Workshop Guide",
-    "URL": "https://fortinetcloudcse.github.io/UserRepo",
+    "text": "Fortinet Admin Guides",
+    "URL": "https://docs.fortinet.com",
     "icon": "fa-tools",
     "weight":20
   },
   {
-    "text": "Fortinet Standard Workshop Template Repo",
-    "URL": "https://github.com/FortinetCloudCSE/UserRepo",
+    "text": "FortiADC Admin Guide",
+    "URL": "https://docs.fortinet.com/document/fortiadc/8.0.4/administration-guide/105358/introduction",
     "icon": "fa-tools",
     "weight":30
   },
   {
-    "text": "Fortinet Hugo reLearn theme - Guide",
-    "URL": "https://mcshelby.github.io/hugo-theme-relearn/index.html",
+    "text": "Load Balancing, Application Delivery, and Security for Web Applications",
+    "URL": "https://docs.fortinet.com/document/fortiadc/8.0.2/load-balancing-application-delivery-and-security-for-web-applications/974436/use-case-load-balancing-application-delivery-and-security-for-web-applications",
     "icon": "fa-tools",
     "weight":40
   }
